@@ -1,0 +1,78 @@
+html {
+	font-family: verdana;
+}
+
+h1 {
+	margin:10px;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+}
+
+.lista td {
+	border: 1px solid #000000;
+	text-align: center;
+	padding: 2px;
+}
+
+.lista th {
+	border: 1px solid #000000;
+	text-align: center;
+	padding: 2px;
+}
+
+.formulario td {
+	border: 0px solid #000000;
+	text-align: right;
+	padding: 2px;
+}
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
