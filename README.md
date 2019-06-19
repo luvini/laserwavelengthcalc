@@ -3,5 +3,5 @@ A laser wavelength calculator programmed in PHP with MySQL database
 
 Tested with XAMPP
 
-#Database
+# Database
 The database must be created on the first run, to do this, open /CriaDB/CriaDB.php
